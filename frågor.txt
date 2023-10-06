@@ -1,0 +1,19 @@
+När använder man add respektive commit?
+Git add använd när man vill lägga en ny fil eller ändring i commit stage.
+Git commit används när en kommentar lägs till på ändringen så man sedan
+kan göra en git push. 
+
+Vad är pull respektive push?
+Git pull används för att hämta en branch i molnet.
+Git push används för att skicka en branch från en lokal enhet.
+
+När använder man log respektive status?
+Git log används för att commit historik från aktuel branch.
+Git status används för att se om det finns modifierade filer som behöver commitas.
+
+Hur kan man formulera sig i sina commit-meddelanden?
+Jag tycker det är lättast att hålla det kort och enkelt men också så någon annan kan förstå vad man menar.
+ex:
+Spra filen - "Saved file <filename>.
+Lägga den i repot - "Added file <filename>"
+Göra en ändring i en fil - "Added/changed this and that to <filename>"
